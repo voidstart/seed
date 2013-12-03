@@ -22,3 +22,4 @@ Index page of present
 - GUI ( DOM/CSS, iOS, Cocoa, WinForm, Wayland )
 - Mathematics ( ExplainMath -> Generate explanations from transformations, for humans )
 - Ebooks/Library ( ppurl, calibre, libgenesis -> Vast, Download, Meta, Naming like Rails, Database/Index )
+- Algo Complexity ( Embedded formula, algorithm name, complexity, benchmarks, scale(n) inside the program )
