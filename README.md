@@ -20,3 +20,4 @@ Index page of present
 - Science ( Python, R, Walfram )
 - Safety ( Rust, Ada )
 - GUI ( DOM/CSS, iOS, Cocoa, WinForm, Wayland )
+- Mathematics ( ExplainMath -> Generate explanations from transformations, for humans )
