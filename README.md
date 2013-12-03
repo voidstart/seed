@@ -9,7 +9,7 @@ Index page of present
 =====================
 
 - IDE ( JetBrains, Atlassin, Github )
-- Referer ( Dash App for Mac )
+- Referer ( Dash App for Mac , ExplainShell )
 - OS/Finder ( Doo App )
 - Functional ( Lisp/Scheme, Clojure, Haskell )
 - Industry ( JVM, Erlang VM, C++ )
