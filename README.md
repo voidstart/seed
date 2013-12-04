@@ -23,3 +23,6 @@ Index page of present
 - Mathematics ( ExplainMath -> Generate explanations from transformations, for humans )
 - Ebooks/Library ( ppurl, calibre, libgenesis -> Vast, Download, Meta, Naming like Rails, Database/Index )
 - Algo Complexity ( Embedded formula, algorithm name, complexity, benchmarks, scale(n) inside the program )
+- API management ( API grouping -> tag, category, API ID -> ID related to behavior, API Level ->
+patch level / fix level / no semantic change. Semantic API versioning. )
+
