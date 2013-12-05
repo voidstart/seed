@@ -25,4 +25,4 @@ Index page of present
 - Algo Complexity ( Embedded formula, algorithm name, complexity, benchmarks, scale(n) inside the program )
 - API management ( API grouping -> tag, category, API ID -> ID related to behavior, API Level ->
 patch level / fix level / no semantic change. Semantic API versioning. )
-
+- Autocompletion Everywhere ( Bret Victor: Imediate Interaction with Creation )
