@@ -26,3 +26,4 @@ Index page of present
 - API management ( API grouping -> tag, category, API ID -> ID related to behavior, API Level ->
 patch level / fix level / no semantic change. Semantic API versioning. )
 - Autocompletion Everywhere ( Bret Victor: Imediate Interaction with Creation )
+- Keyboard friendly webpage ( Or any app )
