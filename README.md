@@ -27,3 +27,9 @@ Index page of present
 patch level / fix level / no semantic change. Semantic API versioning. )
 - Autocompletion Everywhere ( Bret Victor: Imediate Interaction with Creation )
 - Keyboard friendly webpage ( Or any app )
+
+
+Business of the future
+======================
+
+- Uber ( Driver App. Taxi.. No.. Limo Driver )
