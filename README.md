@@ -27,6 +27,7 @@ Index page of present
 patch level / fix level / no semantic change. Semantic API versioning. )
 - Autocompletion Everywhere ( Bret Victor: Imediate Interaction with Creation )
 - Keyboard friendly webpage ( Or any app )
+- Cross Application Interaction ( Move Chrome Tab out, drag-n-drop, Send To.. )
 
 
 Business of the future
