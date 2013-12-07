@@ -28,6 +28,7 @@ patch level / fix level / no semantic change. Semantic API versioning. )
 - Autocompletion Everywhere ( Bret Victor: Imediate Interaction with Creation )
 - Keyboard friendly webpage ( Or any app )
 - Cross Application Interaction ( Move Chrome Tab out, drag-n-drop, Send To.. )
+- Bitcoin ( This really is useful but is now abused. Part of the future, definitely not in the current state of shape. )
 
 
 Business of the future
