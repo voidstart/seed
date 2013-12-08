@@ -26,7 +26,8 @@ Index page of present
 - API management ( API grouping -> tag, category, API ID -> ID related to behavior, API Level ->
 patch level / fix level / no semantic change. Semantic API versioning. )
 - Autocompletion Everywhere ( Bret Victor: Imediate Interaction with Creation )
-- Keyboard friendly webpage ( Or any app )
+- Keyboard friendly webpage ( Or any app. Command <K,B>: Hold cmd, then press K,B. Think of this as Key,Board. A new
+dimention of keyboard shortcuts, inspired by Sublime Text show sidepane shortcut. )
 - Cross Application Interaction ( Move Chrome Tab out, drag-n-drop, Send To.. )
 - Bitcoin ( This really is useful but is now abused. Part of the future, definitely not in the current state of shape. )
 - OverKill ( TM. My OS's future name. Principle: On Interface, Music player, Keyboard shortcuts: Know all shortcuts in context )
