@@ -31,9 +31,13 @@ dimention of keyboard shortcuts, inspired by Sublime Text show sidepane shortcut
 - Cross Application Interaction ( Move Chrome Tab out, drag-n-drop, Send To.. )
 - Bitcoin ( This really is useful but is now abused. Part of the future, definitely not in the current state of shape. )
 - OverKill ( TM. My OS's future name. Principle: On Interface, Music player, Keyboard shortcuts: Know all shortcuts in context )
+- Reactive Programming ( Versus Actor, Erlang, Event-driven callbacks )
 
 
 Business of the future
 ======================
 
 - Uber ( Driver App. Taxi.. No.. Limo Driver )
+- Migrator ( Personal settings like Github repos, rc files, dot files; Sync like Dropbox; Easy as QQ; Installs and Checks, Provisions )
+- PPURL replica ( Ebookoid, Library.nu clones. Use Free Cloud storage services. Legal issues. )
+- Personal cloud ( Integrated into the Home Router: Xiaomi Router, with membership to Netflix/Thunder )
