@@ -47,3 +47,18 @@ Learning techniques
 ===================
 
 - Learn by writing ( Write docs for a language to learn it )
+
+
+Project ideas
+=============
+
+- bcpk : product/service/app/hw/sw comparison
+      * specs, apple store style
+      * cam compare style
+      * rating, points, badges, level-up
+      * Github like interface
+      * social
+      * ads without the ads
+      * free/mium, public/private reviews
+      * video/audio/pic/text
+      * mascot: a bear
