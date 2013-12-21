@@ -53,11 +53,13 @@ Project ideas
 =============
 
 - bcpk : product/service/app/hw/sw comparison
+  ** Name: business-consumer-PK
+  ** Secondary name: PriceDroid/SpecDroid/SpecBear/..
       * specs, apple store style
       * cam compare style
       * rating, points, badges, level-up
       * Github like interface
-      * social
+      * social: quote other, share/follow/star/watch/twit/weibo/weixin etc.
       * ads without the ads
       * free/mium, public/private reviews
       * video/audio/pic/text
