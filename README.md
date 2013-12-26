@@ -8,7 +8,7 @@ Here I plant a seed. A seed for concepts, ideas, prototypes, failures and most i
 Index page of present
 =====================
 
-- IDE ( JetBrains, Atlassin, Github )
+- IDE ( JetBrains, Atlassin, Github, Light Table, SubText, Juce, Lambu )
 - Referer ( Dash App for Mac , ExplainShell )
 - OS/Finder ( Doo App )
 - Functional ( Lisp/Scheme, Clojure, Haskell )
