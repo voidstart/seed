@@ -41,6 +41,7 @@ Business of the future
 - Migrator ( Personal settings like Github repos, rc files, dot files; Sync like Dropbox; Easy as QQ; Installs and Checks, Provisions )
 - PPURL replica ( Ebookoid, Library.nu clones. Use Free Cloud storage services. Legal issues. )
 - Personal cloud ( Integrated into the Home Router: Xiaomi Router, with membership to Netflix/Thunder )
+- Low Energy Computing ( 144-core )
 
 
 Learning techniques
