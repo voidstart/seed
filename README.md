@@ -42,6 +42,7 @@ Business of the future
 - PPURL replica ( Ebookoid, Library.nu clones. Use Free Cloud storage services. Legal issues. )
 - Personal cloud ( Integrated into the Home Router: Xiaomi Router, with membership to Netflix/Thunder )
 - Low Energy Computing ( 144-core )
+- Massive Online Education
 
 
 Learning techniques
