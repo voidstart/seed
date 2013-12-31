@@ -32,6 +32,7 @@ dimention of keyboard shortcuts, inspired by Sublime Text show sidepane shortcut
 - Bitcoin ( This really is useful but is now abused. Part of the future, definitely not in the current state of shape. )
 - OverKill ( TM. My OS's future name. Principle: On Interface, Music player, Keyboard shortcuts: Know all shortcuts in context )
 - Reactive Programming ( Versus Actor, Erlang, Event-driven callbacks )
+- Programming with writing OS in mind
 
 
 Business of the future
