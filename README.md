@@ -33,6 +33,8 @@ dimention of keyboard shortcuts, inspired by Sublime Text show sidepane shortcut
 - OverKill ( TM. My OS's future name. Principle: On Interface, Music player, Keyboard shortcuts: Know all shortcuts in context )
 - Reactive Programming ( Versus Actor, Erlang, Event-driven callbacks )
 - Programming with writing OS in mind
+- Visualization on stuff (Tutorials, Explainations)
+- VHDL/Verilog/FPGA Programming ( Some new insights there )
 
 
 Business of the future
