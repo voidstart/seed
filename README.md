@@ -40,6 +40,7 @@ dimention of keyboard shortcuts, inspired by Sublime Text show sidepane shortcut
 Business of the future
 ======================
 
+- Think what the world and daily life would be in 20 years
 - Uber ( Driver App. Taxi.. No.. Limo Driver )
 - Migrator ( Personal settings like Github repos, rc files, dot files; Sync like Dropbox; Easy as QQ; Installs and Checks, Provisions )
 - PPURL replica ( Ebookoid, Library.nu clones. Use Free Cloud storage services. Legal issues. )
