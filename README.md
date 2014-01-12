@@ -47,7 +47,7 @@ Business of the future
 - Personal cloud ( Integrated into the Home Router: Xiaomi Router, with membership to Netflix/Thunder )
 - Low Energy Computing ( 144-core )
 - Massive Online Education
-- Finance
+- Finance ( Electroic taken over the system. Internet banking is the norm. )
 
 
 Learning techniques
