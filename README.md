@@ -35,6 +35,7 @@ dimention of keyboard shortcuts, inspired by Sublime Text show sidepane shortcut
 - Programming with writing OS in mind
 - Visualization on stuff (Tutorials, Explainations)
 - VHDL/Verilog/FPGA Programming ( Some new insights there ; FPGA are like functional chips in a sense. )
+- Kernel ( Hybrid Kernel, MicroKernel )
 
 
 Business of the future
