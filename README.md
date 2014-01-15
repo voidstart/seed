@@ -49,6 +49,7 @@ Business of the future
 - Low Energy Computing ( 144-core )
 - Massive Online Education
 - Finance ( Electroic taken over the system. Internet banking is the norm. )
+- Web of Things ( Smart Home )
 
 
 Learning techniques
