@@ -36,7 +36,8 @@ dimention of keyboard shortcuts, inspired by Sublime Text show sidepane shortcut
 - Visualization on stuff (Tutorials, Explainations)
 - VHDL/Verilog/FPGA Programming ( Some new insights there ; FPGA are like functional chips in a sense. )
 - Kernel ( Hybrid Kernel, MicroKernel, Unikernel for VM )
-- Processor design (Assembly)
+- Processor design (Assembly, visualization)
+- Dictionary based documentation ( search engine, docsets, IME-like, cell-dicts, completions, tags )
 
 
 Business of the future
